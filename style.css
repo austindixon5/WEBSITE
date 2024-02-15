@@ -1,0 +1,22 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; /* A gentle background */
+}
+
+a {
+    color: #0645ad; /* A classic, readable blue */
+}
+
+a:hover {
+    color: #0b0080; /* A darker blue for hovering */
+}
+
+.resume, .hobby, .navigation {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #dddddd;
+    border-radius: 8px;
+}
+
+/* Additional styles for layout, typography, and color */
