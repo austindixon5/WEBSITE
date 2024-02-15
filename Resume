@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/style.css">
+    <title>Your Name's Resume</title>
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <!-- Navigation Links -->
+    </header>
+    <main>
+        <section class="resume">
+            <h2>Education</h2>
+            <p>Your educational background details.</p>
+            <h2>Work Experience</h2>
+            <p>Your professional experience details.</p>
+            <h2>Skills</h2>
+            <ul>
+                <li>Your Skill 1</li>
+                <li>Your Skill 2</li>
+                <!-- More skills -->
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <!-- Footer content -->
+    </footer>
+</body>
+</html>
