@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/style.css">
+    <title>Your Passion</title>
+</head>
+<body>
+    <main class="hobby">
+        <h1>A Title that Reflects Your Hobby or Passion</h1>
+        <!-- Your content here -->
+        <ol>
+            <li>An Ordered List
+                <ul>
+                    <li>An Unordered List nested within</li>
+                    <!-- More items -->
+                </ul>
+            </li>
+            <!-- More ordered items -->
+        </ol>
+        <img src="path/to/your/image.jpg" alt="A descriptive alt text">
+        <!-- Embed a YouTube video -->
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <!-- An anchor -->
+        <a href="#top" id="top">Back to Top</a>
+    </main>
+</body>
+</html>
